@@ -32,5 +32,4 @@ int main()
     ans = abs(ans);
     cout<<ans;
     return 0;
-    
 }
